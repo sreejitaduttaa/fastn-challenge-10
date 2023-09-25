@@ -3,16 +3,17 @@
 -- fastn.package: sreejitaduttaa.github.io/fastn-challenge-10
 favicon: /-/sreejitaduttaa.github.io/fastn-challenge-10/favicon.ico
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/midnight-storm as ds
 -- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
 
--- fastn.auto-import: sreejitaduttaa.github.io/fastn-challenge-10/FASTN/ds
+-- fastn.auto-import: sreejitaduttaa.github.io/fastn-challenge-10/FASTN/spa
 -- fastn.auto-import: sreejitaduttaa.github.io/fastn-challenge-10/assets
--- fastn.auto-import: doc-site
+-- fastn.auto-import: fastn-community.github.io/footer as footer
+-- fastn.auto-import: ds
+-- fastn.auto-import: ds/common
 
 -- fastn.sitemap:
 
 # Home: index.html
-
-- Right Sidebar Sample: /sidebar/
+# Blog: /blog/
+# Landing: /landing/

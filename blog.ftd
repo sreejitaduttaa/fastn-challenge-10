@@ -1,4 +1,4 @@
--- spa.page: This is the home page
+-- spa.page: This is the blog page
 full-width: true
 sidebar: false
 site-logo: $assets.files.assets.logo.png
@@ -8,4 +8,7 @@ github-icon: true
 
 Click on [landing](sreejitaduttaa.github.io/fastn-challenge-10/landing) to view the landing page
 
+
 -- end: spa.page
+
+
